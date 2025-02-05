@@ -1,4 +1,4 @@
-#Crack Detection Project
+# Crack Detection Project
 
 
 Welcome to the Crack Detection Project repository! This project demonstrates a complete pipeline for crack detection in concrete structures using deep learning. The repository is organized into modular components showcasing data preparation, model building with both TensorFlow and PyTorch, and evaluation. It is an excellent reference for understanding how to integrate classical computer vision techniques with modern deep learning frameworks such as GANs, ResNet50, and ResNet18.
